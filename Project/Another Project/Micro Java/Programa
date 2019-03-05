@@ -1,0 +1,7 @@
+class ejem
+int a;
+boolean b;
+int c;
+{
+  a=q;
+} 
